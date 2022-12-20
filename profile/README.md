@@ -2,9 +2,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/cph101/Blooket-Hacks">
-	 <img src="images/animated_icon.gif" alt="Logo" width="200" height="200" />
+	 <img src="https://github.com/Blooket-Cheats/Blooket-Hacks/blob/main/images/animated_icon.gif?raw=true" alt="Logo" width="200" height="200" />
   </a>
-  
+
 <h3 align="center">Blooket Hacks</h3>
 <h4 align="center">Made By <a href="https://github.com/cph101/">cph101</a> & <a href="https://github.com/crazyh2/">CrazyH</a></h4>
 
@@ -25,11 +25,6 @@
 •  cph101 • cph101\#<span>&#x30;&#x30;&#x30;</span>1 • cph101@icloud.com</span>
 
 •  Crazyh • Huckle\#4707 • crazyh.dev@gmail.com
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
