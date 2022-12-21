@@ -16,7 +16,7 @@
     <br />
 	  <br>
 	  <div align="center">
-    <img src="button1.svg" width="400" height="400" alt="css-in-readme">
+    [![https://github.com/Blooket-Cheats/Blooket-Hacks/](button1.svg)](https://github.com/Blooket-Cheats/Blooket-Hacks/)
 </div>
     <br>
   </p>
