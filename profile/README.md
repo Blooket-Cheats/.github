@@ -15,7 +15,9 @@
    We have based some of these off other peoples', with some edits to improve it.
     <br />
 	  <br>
-	  <svg><foreignObject><a style="color:red !important;" href="https://github.com/Blooket-Cheats/Blooket-Hack">View Cheats</a></foreignObject></svg>
+	  <div align="center">
+    <img src="button1.svg" width="400" height="400" alt="css-in-readme">
+</div>
     <br>
   </p>
 </div>
