@@ -37,3 +37,7 @@
 * []()We are NOT responsible for any actions taken on your account for using these hacks.
 * []()We are in no way affiliated with Blooket in any way, shape or form.
 * []()This was created solely for educational purposes.
+
+<!-- STATS -->
+## Stats
+![](https://komarev.com/ghpvc/?username=Blooket-Cheats)
