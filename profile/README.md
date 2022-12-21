@@ -16,7 +16,7 @@
     <br />
 	  <br>
 	  <div align="center">
-    \[![https://github.com/Blooket-Cheats/Blooket-Hacks/](button1.svg)](https://github.com/Blooket-Cheats/Blooket-Hacks/)
+		  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/"><img src="button1.svg"></a>
 </div>
     <br>
   </p>
