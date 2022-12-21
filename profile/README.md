@@ -15,7 +15,7 @@
    We have based some of these off other peoples', with some edits to improve it.
     <br />
 	  <br>
-	  <svg><foreignObject><a style="color:red;" href="https://github.com/Blooket-Cheats/Blooket-Hack">View Cheats</a></foreignObject></svg>
+	  <svg><foreignObject><a style="color:red !important;" href="https://github.com/Blooket-Cheats/Blooket-Hack">View Cheats</a></foreignObject></svg>
     <br>
   </p>
 </div>
