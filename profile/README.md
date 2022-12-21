@@ -15,12 +15,11 @@
    We have based some of these off other peoples', with some edits to improve it.
     <br />
 	  <br>
-	  <div display="flex" align="center">
+	  <div align="center">
 		  <p>
 		  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/"><img src="https://github.com/Blooket-Cheats/.github/blob/main/profile/button1.svg?raw=true"></a>
 		  <a href="https://github.com/Blooket-Cheats/Extension/"><img src="https://github.com/Blooket-Cheats/.github/blob/main/profile/button2.svg?raw=true"></a>
 </div>
-    <br>
   </p>
 </div>
 <br /><br />
