@@ -3,10 +3,12 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             button {
+                white-space: nowrap;
+        overflow: hidden;
                 color: red;
                 font-family: sans-serif;
                 font-size: 50px;
-                width: 130px;
+                height: 130px;
             }
             </style>
             <button onclick="window.location.href = `https://github.com/Blooket-Cheats/Blooket-Hacks`;">View Cheats</button>
