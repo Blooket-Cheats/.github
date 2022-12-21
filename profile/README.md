@@ -14,6 +14,7 @@
    <i>Please do not market it as your own, and make copies private please.</i>
    We have based some of these off other peoples', with some edits to improve it.
     <br />
+    <button onclick="window.location.href = `https://github.com/Blooket-Cheats/Blooket-Hacks`">View Cheats</button>
     <br />
   </p>
 </div>
