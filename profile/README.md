@@ -16,8 +16,7 @@
     <br />
 	  <br>
 	  <svg><foreignObject><a style="color:red;" href="https://github.com/Blooket-Cheats/Blooket-Hack">View Cheats</a></foreignObject></svg>
-    
-    <br />
+    <br>
   </p>
 </div>
 <br /><br />
