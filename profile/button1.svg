@@ -5,7 +5,7 @@
             button {
                 color: red;
                 font-family: sans-serif;
-                font-size: 180px;
+                font-size: 50px;
                 width: 130px;
             }
             </style>
