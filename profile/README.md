@@ -18,7 +18,7 @@
 	  <div display="flex" align="center">
 		  <p>
 		  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/"><img src="button1.svg"></a>
-		  <a href="https://github.com/Blooket-Cheats/Extension/"><img src="button2.svg"></a>
+		  <a href="https://github.com/Blooket-Cheats/Extension1/"><img src="button2.svg"></a>
 </div>
     <br>
   </p>
