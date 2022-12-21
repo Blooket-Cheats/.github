@@ -8,7 +8,7 @@
 <h3 align="center">Blooket Cheats</h3>
 <h4 align="center">Made By <a href="https://github.com/cph101/">cph101</a> & <a href="https://github.com/crazyh2/">CrazyH</a></h4>
 
-![](https://komarev.com/ghpvc/?username=Blooket-Cheats)
+![](https://komarev.com/ghpvc/?username=Blooket-Cheats&color=red)
 
 <br />
 
