@@ -17,7 +17,7 @@
 	  <br>
 	  <div align="center">
 		  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/"><img src="button1.svg"></a>
-		  <a href="https://github.com/Blooket-Cheats/extension/"><img src="https://i.ibb.co/DwBgfCz/363-F0582-C35-A-422-A-BF58-98-D7251-B8-A73.png"></a>
+		  <a href="https://github.com/Blooket-Cheats/extension/"><img src="https://i.ibb.co/ZMWb08s/89-FAC20-A-681-C-4-E51-8732-90-A5-F2826-A1-E.png"></a>
 </div>
     <br>
   </p>
