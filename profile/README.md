@@ -22,7 +22,7 @@
 </div>
   </p>
 </div>
-<br /><br />
+<br />
 
 <!-- CONTACT -->
 ## Contact
