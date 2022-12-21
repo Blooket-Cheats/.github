@@ -23,11 +23,11 @@
         overflow: hidden;
                 color: orange;
                 font-family: sans-serif;
-                font-size: 15px;
+                font-size: 13px;
                 height: 20px;
                 position: fixed;
-                top: 13px;
-                left: 115px;
+                top: 20px;
+                left: 130px;
                 z-index: 1000;
             }
             </style>
