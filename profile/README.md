@@ -22,7 +22,7 @@
 	  <div align="center">
 		  <p>
 		      <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/viewCheats.svg"></a>
-    <a href="https://github.com/Blooket-Cheats/Extension/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/extension.svg"></a>
+    <a href="https://github.com/Blooket-Cheats/Extension/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/extension.sv"></a>
 </div>
   </p>
 </div>
