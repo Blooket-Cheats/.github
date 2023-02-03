@@ -8,10 +8,10 @@
 <h3 align="center">Blooket Cheats</h3>
 <h4 align="center">Made By <a href="https://github.com/cph101/">cph101</a> & <a href="https://github.com/crazyh2/">CrazyH</a></h4>
 
-![](https://komarev.com/ghpvc/?username=Blooket-Cheats&color=red)
+![](https://komarev.com/ghpvc/?username=SeeSharpen&color=red)
 
   <p align="center">
-   Welcome to the first blooket cheats organisation with fully unobfuscated, working scripts.
+   Welcome to the first Blooket cheats organisation with fully unobfuscated, working scripts.
    We will strive to only provide unobfuscated versions, so that people know what is in it.
    <i>Please do not market it as your own, and make copies private please.</i>
    We have based some of these off other peoples', with some edits to improve it.
