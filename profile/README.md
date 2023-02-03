@@ -10,8 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Blooket-Cheats&color=red)
 
-<br />
-
   <p align="center">
    Welcome to the first blooket cheats organisation with fully unobfuscated, working scripts.
    We will strive to only provide unobfuscated versions, so that people know what is in it.
@@ -29,15 +27,15 @@
 <br />
 
 <!-- CONTACT -->
-## Contact
+## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1035536629407957042"> ‎ ‎ Contact
 
-•  cph101 • cph101\#<span>&#x30;&#x30;&#x30;</span>1 • cph101@icloud.com</span>
+• ‎ <img width="18" src="https://i.ibb.co/XkWwv7D/A63558-E9-8-A93-42-F8-BF87-BA05-D2-EBD817.png"> ‎ cph101 • cph101\#<span>&#x30;&#x30;&#x30;</span>1 • cph101@icloud.com</span>
 
-•  Crazyh • Huckle\#4707 • crazyh.dev@gmail.com
+• ‎ <img width="18" src="https://i.ibb.co/nCb2NjY/3-CE6-DBB3-9-E4-A-4-DE4-8090-F8-ACCD394-AE1.png"> ‎ Crazyh • Huckle\#4707 • crazyh.dev@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1012520645915062292"> ‎ ‎ Acknowledgments
 
-* []()We are NOT responsible for any actions taken on your account for using these hacks.
-* []()We are in no way affiliated with Blooket in any way, shape or form.
-* []()This was created solely for educational purposes.
+* We are NOT responsible for any actions taken on your account for using these hacks.
+* We are in no way affiliated with Blooket in any way, shape or form.
+* This was created solely for educational purposes.
